@@ -11,6 +11,9 @@ Proyecto web de ejemplo para prácticas y pruebas de desarrollo.
 - Documentación
 
 ## Cómo usar
+
+**Importante:** Instalar Node.js antes de continuar.
+
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/jesusMartinez88/prueba.git
